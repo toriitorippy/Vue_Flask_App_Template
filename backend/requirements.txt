@@ -1,0 +1,3 @@
+Flask
+Flask-cors
+Flask_restful
